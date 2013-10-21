@@ -1,0 +1,26 @@
+{
+  "name": "slugit",
+  "version": "0.0.0",
+  "description": "an awesome url helper",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/elizar/slugit.git"
+  },
+  "keywords": [
+    "slug",
+    "url",
+    "parser"
+  ],
+  "author": "Elizar Pepino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elizar/slugit/issues"
+  }
+}
