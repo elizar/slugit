@@ -1,4 +1,5 @@
 'use strict';
+
 function _slugit(str) {
   return str;
 }
